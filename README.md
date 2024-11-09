@@ -15,4 +15,4 @@ Este projeto foi desenvolvido com o objetivo de criar um portal de cursos focado
 
 Este projeto visa ser uma solução completa para centralizar o aprendizado na área agrícola, facilitando o acesso a conhecimentos específicos de maneira prática e organizada.
 
-![GIF do Funcionamento](StrykerZin/Seed-For-Life-WebSite/video1.gif)
+![GIF do Funcionamento](/video1.gif)
