@@ -14,3 +14,5 @@ Este projeto foi desenvolvido com o objetivo de criar um portal de cursos focado
 - **MySQL**: Banco de dados para armazenamento seguro de dados dos usuários.
 
 Este projeto visa ser uma solução completa para centralizar o aprendizado na área agrícola, facilitando o acesso a conhecimentos específicos de maneira prática e organizada.
+
+Vídeo sem título ‐ Feito com o Clipchamp.gif
