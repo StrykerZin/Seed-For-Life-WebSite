@@ -1,5 +1,5 @@
 # Seed-For-Life-WebSite
-Meu primeiro Projeto da faculdade envolvendo Front end 
+Meu primeiro Projeto da faculdade envolvendo Front end e PHP
 
 
 # Projeto de Portal de Cursos para a Área de Agricultura 🌱
