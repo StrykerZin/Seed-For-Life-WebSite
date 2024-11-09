@@ -15,4 +15,4 @@ Este projeto foi desenvolvido com o objetivo de criar um portal de cursos focado
 
 Este projeto visa ser uma solução completa para centralizar o aprendizado na área agrícola, facilitando o acesso a conhecimentos específicos de maneira prática e organizada.
 
-Vídeo sem título ‐ Feito com o Clipchamp.gif
+Video.gif
